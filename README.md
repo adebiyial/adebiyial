@@ -12,15 +12,11 @@ I like to write about the tools I use in my everyday development. It could be ho
 
 ### CSS-Tricks
 
-1. [Using Formik to Handle Forms in React ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
-2. [Using GraphQL Playground with Gatsby ](https://css-tricks.com/using-graphql-playground-with-gatsby/)
-3. [Deploying a Client-Side Rendered create-react-app to Microsoft Azure ](https://css-tricks.com/deploying-a-client-side-rendered-create-react-app-to-microsoft-azure/)
-
-| Article                               | Published? | Link                                                          |
-| ------------------------------------- | ---------- | ------------------------------------------------------------- |
-| Using Formik to Handle Forms in React | 🟢         | https://css-tricks.com/using-formik-to-handle-forms-in-react/ |
-| Using Formik to Handle Forms in React | 🟢         | https://css-tricks.com/using-formik-to-handle-forms-in-react/ |
-| Using Formik to Handle Forms in React | 🟢         | https://css-tricks.com/using-formik-to-handle-forms-in-react/ |
+| Article                                                              | Published? | Link                                                                                         |
+| -------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------- |
+| Using Formik to Handle Forms in React                                | 🟢         | https://css-tricks.com/using-formik-to-handle-forms-in-react/                                |
+| Using GraphQL Playground with Gatsby                                 | 🟢         | https://css-tricks.com/using-graphql-playground-with-gatsby/                                 |
+| Deploying a Client-Side Rendered create-react-app to Microsoft Azure | 🟢         | https://css-tricks.com/deploying-a-client-side-rendered-create-react-app-to-microsoft-azure/ |
 
 ### LogRockect
 
