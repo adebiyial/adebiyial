@@ -6,15 +6,15 @@ I'm currently employed at Kobo360, as a Frontend Engineer where I work on the Cu
 
 ## Publications
 
-I like to write about the tools I use in my everyday development. It could be how I learned them, solved some challenges I had with them, or just pure opinionated pieces on how I get things done with them.
+I write; I teach.
 
 ### CSS-Tricks ([Me on CSS-Tricks](https://css-tricks.com/author/adebiyial/))
 
-| Article                                                              | Status       | Link                   | Date       |
-| -------------------------------------------------------------------- | ------------ | ---------------------- | ---------- |
-| Using Formik to Handle Forms in React                                | 🟢 Published | https://bit.ly/32lRnYy | 02.20.2020 |
-| Using GraphQL Playground with Gatsby                                 | 🟢 Published | https://bit.ly/38VVFa6 | 02.20.2020 |
-| Deploying a Client-Side Rendered create-react-app to Microsoft Azure | 🟢 Published | https://bit.ly/2AZ0pPJ | 02.20.2020 |
+| Article                                                              | Status       | Link                   |
+| -------------------------------------------------------------------- | ------------ | ---------------------- |
+| Using Formik to Handle Forms in React                                | 🟢 Published | https://bit.ly/32lRnYy |
+| Using GraphQL Playground with Gatsby                                 | 🟢 Published | https://bit.ly/38VVFa6 |
+| Deploying a Client-Side Rendered create-react-app to Microsoft Azure | 🟢 Published | https://bit.ly/2AZ0pPJ |
 
 ### LogRocket ([Me on LogRocket](https://blog.logrocket.com/author/adebiyial/))
 
@@ -42,6 +42,6 @@ I like to write about the tools I use in my everyday development. It could be ho
 
 ## Books
 
-Books have — and continue to be — been a major part of my life and growth. What started out as an habit has grown into a passion I'd forever hold on to. From my first purchase, Joys of Motherhood, to many more, I've been lucky enough to transcend my physical space, go back in time, and fast-forward to the future. Just because I can.
+I read; I learn.
 
-![THE REVOLT OF THE PUBLIC AND THE CRISIS OF AUTHORITY IN THE NEW MILLENNIUM ](revolt-of-the-public.jpg "THE REVOLT OF THE PUBLIC AND THE CRISIS OF AUTHORITY IN THE NEW MILLENNIUM ")
+![THE REVOLT OF THE PUBLIC AND THE CRISIS OF AUTHORITY IN THE NEW MILLENNIUM ](/revolt-of-the-public.jpg "THE REVOLT OF THE PUBLIC AND THE CRISIS OF AUTHORITY IN THE NEW MILLENNIUM ")
