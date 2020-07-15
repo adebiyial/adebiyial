@@ -8,6 +8,13 @@ When I'm not actively writing code for Kobo360, I send time writing and teaching
 
 ## Publications
 
-| Article title                      | Publisher | Date |
-| ---------------------------------- | --------- | ---- |
-| A deep dive into React Context API | LogRocket | ssj  |
+| Article title                                                        | Publisher | Date |
+| -------------------------------------------------------------------- | --------- | ---- |
+| A deep dive into React Context API                                   | LogRocket | ssj  |
+| Formatting form inputs with Cleave.js and React                      | LogRocket | ssj  |
+| Using Formik to Handle Forms in React                                | LogRocket | ssj  |
+| Using GraphQL Playground with Gatsby                                 | LogRocket | ssj  |
+| Deploying a Client-Side Rendered create-react-app to Microsoft Azure | LogRocket | ssj  |
+| Creating a CSS Spinning Loader Animation                             | LogRocket | ssj  |
+| Using JavaScript's sort Method for Sorting Arrays of Strings         | LogRocket | ssj  |
+| Using JavaScript's sort Method for Sorting Arrays of Numbers         | LogRocket | ssj  |
