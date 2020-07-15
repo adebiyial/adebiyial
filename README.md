@@ -12,33 +12,33 @@ I like to write about the tools I use in my everyday development. It could be ho
 
 ### CSS-Tricks
 
-| Article                                                              | Published? | Link                                                                                         |
-| -------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------- |
-| Using Formik to Handle Forms in React                                | 🟢         | https://css-tricks.com/using-formik-to-handle-forms-in-react/                                |
-| Using GraphQL Playground with Gatsby                                 | 🟢         | https://css-tricks.com/using-graphql-playground-with-gatsby/                                 |
-| Deploying a Client-Side Rendered create-react-app to Microsoft Azure | 🟢         | https://css-tricks.com/deploying-a-client-side-rendered-create-react-app-to-microsoft-azure/ |
+| Article                                                              | Status       | Link                   |
+| -------------------------------------------------------------------- | ------------ | ---------------------- |
+| Using Formik to Handle Forms in React                                | 🟢 Published | https://bit.ly/32lRnYy |
+| Using GraphQL Playground with Gatsby                                 | 🟢 Published | https://bit.ly/38VVFa6 |
+| Deploying a Client-Side Rendered create-react-app to Microsoft Azure | 🟢 Published | https://bit.ly/2AZ0pPJ |
 
 ### LogRockect
 
-| Article                                         | Published? | Link                                                                        |
-| ----------------------------------------------- | ---------- | --------------------------------------------------------------------------- |
-| A deep dive into React Context API              | 🟢         | https://blog.logrocket.com/a-deep-dive-into-react-context-api/              |
-| Formatting form inputs with Cleave.js and React | 🟢         | https://blog.logrocket.com/formatting-form-inputs-with-cleave-js-and-react/ |
-| Creating a React App toolchain from scratch     | 🟡         | -                                                                           |
+| Article                                         | Status       | Link                   |
+| ----------------------------------------------- | ------------ | ---------------------- |
+| A deep dive into React Context API              | 🟢 Published | https://bit.ly/2Wlmyzg |
+| Formatting form inputs with Cleave.js and React | 🟢 Published | https://bit.ly/2WjpY5q |
+| Creating a React App toolchain from scratch     | 🟡 Pending   | -                      |
 
 ### Smashing Magazine
 
-| Article                                 | Published? | Link |
+| Article                                 | Status     | Link |
 | --------------------------------------- | ---------- | ---- |
-| Styling in React with Styled-Components | 🟡         | -    |
+| Styling in React with Styled-Components | 🟡 Pending | -    |
 
 ### Alligator.io
 
-| Article                                                      | Published? | Link                                                    |
-| ------------------------------------------------------------ | ---------- | ------------------------------------------------------- |
-| Creating a CSS Spinning Loader Animation                     | 🟢         | https://alligator.io/css/css-spinning-loader-animation/ |
-| Using JavaScript's sort Method for Sorting Arrays of Strings | 🟢         | https://alligator.io/js/array-sort-strings/             |
-| Using JavaScript's sort Method for Sorting Arrays of Numbers | 🟢         | (https://alligator.io/js/array-sort-numbers/            |
+| Article                                                      | Status       | Link                   |
+| ------------------------------------------------------------ | ------------ | ---------------------- |
+| Creating a CSS Spinning Loader Animation                     | 🟢 Published | https://bit.ly/3h1JHi9 |
+| Using JavaScript's sort Method for Sorting Arrays of Strings | 🟢 Published | https://bit.ly/32qrLd7 |
+| Using JavaScript's sort Method for Sorting Arrays of Numbers | 🟢 Published | https://bit.ly/2ZsSPGw |
 
 ---
 
