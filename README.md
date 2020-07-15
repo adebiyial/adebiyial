@@ -20,16 +20,25 @@ I like to write about the tools I use in my everyday development. It could be ho
 
 ### LogRockect
 
-1. [A deep dive into React Context API](https://blog.logrocket.com/a-deep-dive-into-react-context-api/)
-2. [Formatting form inputs with Cleave.js and React](https://blog.logrocket.com/formatting-form-inputs-with-cleave-js-and-react/)
+| Article                                         | Published? | Link                                                                        |
+| ----------------------------------------------- | ---------- | --------------------------------------------------------------------------- |
+| A deep dive into React Context API              | 🟢         | https://blog.logrocket.com/a-deep-dive-into-react-context-api/              |
+| Formatting form inputs with Cleave.js and React | 🟢         | https://blog.logrocket.com/formatting-form-inputs-with-cleave-js-and-react/ |
+| Creating a React App toolchain from scratch     | 🟡         | -                                                                           |
 
-<!-- ### Smashing Magazine -->
+### Smashing Magazine
+
+| Article                                 | Published? | Link |
+| --------------------------------------- | ---------- | ---- |
+| Styling in React with Styled-Components | 🟡         | -    |
 
 ### Alligator.io
 
-1. [Creating a CSS Spinning Loader Animation](https://alligator.io/css/css-spinning-loader-animation/)
-2. [Using JavaScript's sort Method for Sorting Arrays of Strings](https://alligator.io/js/array-sort-strings/)
-3. [Using JavaScript's sort Method for Sorting Arrays of Numbers](https://alligator.io/js/array-sort-numbers/)
+| Article                                                      | Published? | Link                                                    |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------- |
+| Creating a CSS Spinning Loader Animation                     | 🟢         | https://alligator.io/css/css-spinning-loader-animation/ |
+| Using JavaScript's sort Method for Sorting Arrays of Strings | 🟢         | https://alligator.io/js/array-sort-strings/             |
+| Using JavaScript's sort Method for Sorting Arrays of Numbers | 🟢         | (https://alligator.io/js/array-sort-numbers/            |
 
 ---
 
