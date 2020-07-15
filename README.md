@@ -4,9 +4,11 @@ I'm Adebiyi Adedotun Lukman, a Frontend and User Interface Engineer based in Lag
 
 I'm currently employed at Kobo360, as a Frontend Engineer where I work on the Customer and Partner Dashboard from raw design specs to a functional aggregated experience.
 
-When I'm not actively writing code for Kobo360, I send time writing and teaching about the tools I use...
+---
 
 ## Publications
+
+I like to write about the tools I use in my everyday development. It could be how I learned them, solved some challenges I had with them, or just pure opinionated pieces on how I get things done with them.
 
 ### CSS-Tricks
 
@@ -19,7 +21,7 @@ When I'm not actively writing code for Kobo360, I send time writing and teaching
 1. [A deep dive into React Context API](https://blog.logrocket.com/a-deep-dive-into-react-context-api/)
 2. [Formatting form inputs with Cleave.js and React](https://blog.logrocket.com/formatting-form-inputs-with-cleave-js-and-react/)
 
-### Smashing Magazine
+<!-- ### Smashing Magazine -->
 
 ### Alligator.io
 
@@ -27,4 +29,11 @@ When I'm not actively writing code for Kobo360, I send time writing and teaching
 2. [Using JavaScript's sort Method for Sorting Arrays of Strings](https://alligator.io/js/array-sort-strings/)
 3. [Using JavaScript's sort Method for Sorting Arrays of Numbers](https://alligator.io/js/array-sort-numbers/)
 
-> Alligator.io is now Digital Ocean...Check the article here...
+---
+
+## Books
+
+Books have — and continue to be — been a major part of my life and growth. What started out as an habit has grown into a passion I'd forever hold on to. From my first purchase, Joys of Motherhood, to many more, I've been lucky enough to transcend my physical space, go back in time, and fast-forward to the future. Just because I can.
+
+Inline-style:
+![THE REVOLT OF THE PUBLIC AND THE CRISIS OF AUTHORITY IN THE NEW MILLENNIUM ](revolt-of-the-public.jpg "THE REVOLT OF THE PUBLIC AND THE CRISIS OF AUTHORITY IN THE NEW MILLENNIUM ")
