@@ -12,13 +12,17 @@ I like to write about the tools I use in my everyday development. It could be ho
 
 ### CSS-Tricks
 
+[Me on CSS-Tricks](https://css-tricks.com/author/adebiyial/)
+
 | Article                                                              | Status       | Link                   |
 | -------------------------------------------------------------------- | ------------ | ---------------------- |
 | Using Formik to Handle Forms in React                                | 🟢 Published | https://bit.ly/32lRnYy |
 | Using GraphQL Playground with Gatsby                                 | 🟢 Published | https://bit.ly/38VVFa6 |
 | Deploying a Client-Side Rendered create-react-app to Microsoft Azure | 🟢 Published | https://bit.ly/2AZ0pPJ |
 
-### LogRockect
+### LogRocket
+
+[Me on LogRocket](https://blog.logrocket.com/author/adebiyial/)
 
 | Article                                         | Status       | Link                   |
 | ----------------------------------------------- | ------------ | ---------------------- |
@@ -28,11 +32,15 @@ I like to write about the tools I use in my everyday development. It could be ho
 
 ### Smashing Magazine
 
+<!-- [Me on CSS-Tricks](https://css-tricks.com/author/adebiyial/) -->
+
 | Article                                 | Status     | Link |
 | --------------------------------------- | ---------- | ---- |
 | Styling in React with Styled-Components | 🟡 Pending | -    |
 
 ### Alligator.io
+
+[Me on Alligator.io](https://alligator.io/author/adebiyi-adedotun)
 
 | Article                                                      | Status       | Link                   |
 | ------------------------------------------------------------ | ------------ | ---------------------- |
