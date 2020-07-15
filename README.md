@@ -40,11 +40,11 @@ I write; I teach.
 
 ### Kobo360
 
-Role: Frontend Engineer
+**Role: Frontend Engineer**
 
-Date: October 2019 - Present
+**Date: October 2019 - Present**
 
-Location: Lagos, Nigeria
+**Location: Lagos, Nigeria**
 
 > Kobo360 is a logistics company whose mission is to standardize a Global Logistics Operating System (G-LOS) by empowering enterprises and the economy through logistics.
 
