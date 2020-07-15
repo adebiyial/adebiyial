@@ -10,9 +10,9 @@ When I'm not actively writing code for Kobo360, I send time writing and teaching
 
 ### CSS-Tricks
 
-[Using Formik to Handle Forms in React ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
-[Using GraphQL Playground with Gatsby ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
-[Deploying a Client-Side Rendered create-react-app to Microsoft Azure ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
+1. [Using Formik to Handle Forms in React ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
+2. [Using GraphQL Playground with Gatsby ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
+3. [Deploying a Client-Side Rendered create-react-app to Microsoft Azure ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
 
 | Article title                                                        | Is article published? | Published Date | Article Link           |
 | -------------------------------------------------------------------- | --------------------- | -------------- | ---------------------- |
