@@ -31,9 +31,3 @@ I write; I teach.
 1. [Creating a CSS Spinning Loader Animation ](https://bit.ly/3h1JHi9)
 2. [Using JavaScript's sort Method for Sorting Arrays of Strings ](https://bit.ly/32qrLd7)
 3. [Using JavaScript's sort Method for Sorting Arrays of Numbers ](https://bit.ly/2ZsSPGw)
-
-## Books
-
-I read; I learn.
-
-![THE REVOLT OF THE PUBLIC AND THE CRISIS OF AUTHORITY IN THE NEW MILLENNIUM ](./revolt-of-the-public.jpg "THE REVOLT OF THE PUBLIC AND THE CRISIS OF AUTHORITY IN THE NEW MILLENNIUM ")
