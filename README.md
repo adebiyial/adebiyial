@@ -35,5 +35,4 @@ I like to write about the tools I use in my everyday development. It could be ho
 
 Books have — and continue to be — been a major part of my life and growth. What started out as an habit has grown into a passion I'd forever hold on to. From my first purchase, Joys of Motherhood, to many more, I've been lucky enough to transcend my physical space, go back in time, and fast-forward to the future. Just because I can.
 
-Inline-style:
 ![THE REVOLT OF THE PUBLIC AND THE CRISIS OF AUTHORITY IN THE NEW MILLENNIUM ](revolt-of-the-public.jpg "THE REVOLT OF THE PUBLIC AND THE CRISIS OF AUTHORITY IN THE NEW MILLENNIUM ")
