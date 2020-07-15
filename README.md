@@ -36,22 +36,4 @@ I write; I teach.
 2. [Using JavaScript's sort Method for Sorting Arrays of Strings ](https://bit.ly/32qrLd7)
 3. [Using JavaScript's sort Method for Sorting Arrays of Numbers ](https://bit.ly/2ZsSPGw)
 
-## Experience
-
-### Kobo360
-
-**Role: Frontend Engineer** | **Date: October 2019 - Present** | **Location: Lagos, Nigeria**
-
-> Kobo360 is a logistics company whose mission is to standardize a Global Logistics Operating System (G-LOS) by empowering enterprises and the economy through logistics.
-
-### WiseLead Company
-
-**Role: Frontend Engineer** | **Date: February 2019 - October 2019** | **Location: Lagos, Nigeria**
-
-> WiseLead Company is a company focused on delivering the best IT services and solutions to its customers with its offering in App/Web Development, Consulting, and Training.
-
-### Algorism Limited
-
-**Role: Frontend Engineer (Internship)** | **Date: January 2018 - January 2019** | **Location: Lagos, Nigeria**
-
-> Algorism Limited is a technology consulting and systems integration firm with the founding vision of becoming Africa’s number one digital transformation solutions provider.
+<!-- open source -->
