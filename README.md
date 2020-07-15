@@ -10,12 +10,17 @@ When I'm not actively writing code for Kobo360, I send time writing and teaching
 
 ### CSS-Tricks
 
+[Using Formik to Handle Forms in React ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
+[Using GraphQL Playground with Gatsby ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
+[Deploying a Client-Side Rendered create-react-app to Microsoft Azure ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
+
 | Article title                                                        | Is article published? | Published Date | Article Link           |
 | -------------------------------------------------------------------- | --------------------- | -------------- | ---------------------- |
 | Using Formik to Handle Forms in React                                | Yes                   | Today          | https://bit.ly/2WlMfj6 |
 | Using GraphQL Playground with Gatsby                                 | Yes                   | Today          | https://bit.ly/2WlMfj6 |
 | Deploying a Client-Side Rendered create-react-app to Microsoft Azure | Yes                   | Today          | https://bit.ly/2WlMfj6 |
 
+<!--
 ### LogRockect
 
 ### Smashing Magazine
@@ -33,4 +38,4 @@ When I'm not actively writing code for Kobo360, I send time writing and teaching
 |                                                              | LogRocket | ssj  |
 | Creating a CSS Spinning Loader Animation                     | LogRocket | ssj  |
 | Using JavaScript's sort Method for Sorting Arrays of Strings | LogRocket | ssj  |
-| Using JavaScript's sort Method for Sorting Arrays of Numbers | LogRocket | ssj  |
+| Using JavaScript's sort Method for Sorting Arrays of Numbers | LogRocket | ssj  | -->
