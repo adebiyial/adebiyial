@@ -11,31 +11,20 @@ When I'm not actively writing code for Kobo360, I send time writing and teaching
 ### CSS-Tricks
 
 1. [Using Formik to Handle Forms in React ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
-2. [Using GraphQL Playground with Gatsby ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
-3. [Deploying a Client-Side Rendered create-react-app to Microsoft Azure ](https://css-tricks.com/using-formik-to-handle-forms-in-react/)
+2. [Using GraphQL Playground with Gatsby ](https://css-tricks.com/using-graphql-playground-with-gatsby/)
+3. [Deploying a Client-Side Rendered create-react-app to Microsoft Azure ](https://css-tricks.com/deploying-a-client-side-rendered-create-react-app-to-microsoft-azure/)
 
-| Article title                                                        | Is article published? | Published Date | Article Link           |
-| -------------------------------------------------------------------- | --------------------- | -------------- | ---------------------- |
-| Using Formik to Handle Forms in React                                | Yes                   | Today          | https://bit.ly/2WlMfj6 |
-| Using GraphQL Playground with Gatsby                                 | Yes                   | Today          | https://bit.ly/2WlMfj6 |
-| Deploying a Client-Side Rendered create-react-app to Microsoft Azure | Yes                   | Today          | https://bit.ly/2WlMfj6 |
-
-<!--
 ### LogRockect
+
+1. [A deep dive into React Context API](https://blog.logrocket.com/a-deep-dive-into-react-context-api/)
+2. [Formatting form inputs with Cleave.js and React](https://blog.logrocket.com/formatting-form-inputs-with-cleave-js-and-react/)
 
 ### Smashing Magazine
 
 ### Alligator.io
 
-> Alligator.io is now Digital Ocean...Check the article here...
+1. [Creating a CSS Spinning Loader Animation](https://alligator.io/css/css-spinning-loader-animation/)
+2. [Using JavaScript's sort Method for Sorting Arrays of Strings](https://alligator.io/js/array-sort-strings/)
+3. [Using JavaScript's sort Method for Sorting Arrays of Numbers](https://alligator.io/js/array-sort-numbers/)
 
-| Article title                                                | Publisher | Date |
-| ------------------------------------------------------------ | --------- | ---- |
-| A deep dive into React Context API                           | LogRocket | ssj  |
-| Formatting form inputs with Cleave.js and React              | LogRocket | ssj  |
-|                                                              | LogRocket | ssj  |
-|                                                              | LogRocket | ssj  |
-|                                                              | LogRocket | ssj  |
-| Creating a CSS Spinning Loader Animation                     | LogRocket | ssj  |
-| Using JavaScript's sort Method for Sorting Arrays of Strings | LogRocket | ssj  |
-| Using JavaScript's sort Method for Sorting Arrays of Numbers | LogRocket | ssj  | -->
+> Alligator.io is now Digital Ocean...Check the article here...
