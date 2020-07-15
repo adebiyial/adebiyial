@@ -10,35 +10,27 @@ I write; I teach.
 
 ### CSS-Tricks ([Me on CSS-Tricks](https://css-tricks.com/author/adebiyial/))
 
-| Article                                                              | Status       | Link                   |
-| -------------------------------------------------------------------- | ------------ | ---------------------- |
-| Using Formik to Handle Forms in React                                | 🟢 Published | https://bit.ly/32lRnYy |
-| Using GraphQL Playground with Gatsby                                 | 🟢 Published | https://bit.ly/38VVFa6 |
-| Deploying a Client-Side Rendered create-react-app to Microsoft Azure | 🟢 Published | https://bit.ly/2AZ0pPJ |
+1. [Using Formik to Handle Forms in React](https://bit.ly/32lRnYy) | 🟢
+2. [Using GraphQL Playground with Gatsby ](https://bit.ly/38VVFa6) | 🟢
+3. [Deploying a Client-Side Rendered create-react-app to Microsoft Azure](https://bit.ly/2AZ0pPJ) | 🟢
 
 ### LogRocket ([Me on LogRocket](https://blog.logrocket.com/author/adebiyial/))
 
-| Article                                         | Status       | Link                   |
-| ----------------------------------------------- | ------------ | ---------------------- |
-| A deep dive into React Context API              | 🟢 Published | https://bit.ly/2Wlmyzg |
-| Formatting form inputs with Cleave.js and React | 🟢 Published | https://bit.ly/2WjpY5q |
-| Creating a React App toolchain from scratch     | 🟡 Pending   | -                      |
+1. [A deep dive into React Context APIt](https://bit.ly/2Wlmyzg) | 🟢
+2. [Formatting form inputs with Cleave.js and React ](https://bit.ly/2WjpY5q) | 🟢
+3. [Creating a React App toolchain from scratch]() | 🟡
 
 ### Smashing Magazine
 
 <!-- [Me on CSS-Tricks](https://css-tricks.com/author/adebiyial/) -->
 
-| Article                                 | Status     | Link |
-| --------------------------------------- | ---------- | ---- |
-| Styling in React with Styled-Components | 🟡 Pending | -    |
+1. [Styling in React with Styled-Components]() | 🟡
 
 ### Alligator.io ([Me on Alligator.io](https://alligator.io/author/adebiyi-adedotun))
 
-| Article                                                      | Status       | Link                   |
-| ------------------------------------------------------------ | ------------ | ---------------------- |
-| Creating a CSS Spinning Loader Animation                     | 🟢 Published | https://bit.ly/3h1JHi9 |
-| Using JavaScript's sort Method for Sorting Arrays of Strings | 🟢 Published | https://bit.ly/32qrLd7 |
-| Using JavaScript's sort Method for Sorting Arrays of Numbers | 🟢 Published | https://bit.ly/2ZsSPGw |
+1. [Creating a CSS Spinning Loader Animation ](https://bit.ly/3h1JHi9)| 🟢
+2. [Using JavaScript's sort Method for Sorting Arrays of Strings ](https://bit.ly/32qrLd7)| 🟢
+3. [Using JavaScript's sort Method for Sorting Arrays of Numbers ](https://bit.ly/2ZsSPGw)| 🟢
 
 ## Books
 
