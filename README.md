@@ -8,13 +8,29 @@ When I'm not actively writing code for Kobo360, I send time writing and teaching
 
 ## Publications
 
-| Article title                                                        | Publisher | Date |
-| -------------------------------------------------------------------- | --------- | ---- |
-| A deep dive into React Context API                                   | LogRocket | ssj  |
-| Formatting form inputs with Cleave.js and React                      | LogRocket | ssj  |
-| Using Formik to Handle Forms in React                                | LogRocket | ssj  |
-| Using GraphQL Playground with Gatsby                                 | LogRocket | ssj  |
-| Deploying a Client-Side Rendered create-react-app to Microsoft Azure | LogRocket | ssj  |
-| Creating a CSS Spinning Loader Animation                             | LogRocket | ssj  |
-| Using JavaScript's sort Method for Sorting Arrays of Strings         | LogRocket | ssj  |
-| Using JavaScript's sort Method for Sorting Arrays of Numbers         | LogRocket | ssj  |
+### CSS-Tricks
+
+| Article title                                                        | Is article published? | Published Date | Article Link           |
+| -------------------------------------------------------------------- | --------------------- | -------------- | ---------------------- |
+| Using Formik to Handle Forms in React                                | Yes                   | Today          | https://bit.ly/2WlMfj6 |
+| Using GraphQL Playground with Gatsby                                 | Yes                   | Today          | https://bit.ly/2WlMfj6 |
+| Deploying a Client-Side Rendered create-react-app to Microsoft Azure | Yes                   | Today          | https://bit.ly/2WlMfj6 |
+
+### LogRockect
+
+### Smashing Magazine
+
+### Alligator.io
+
+> Alligator.io is now Digital Ocean...Check the article here...
+
+| Article title                                                | Publisher | Date |
+| ------------------------------------------------------------ | --------- | ---- |
+| A deep dive into React Context API                           | LogRocket | ssj  |
+| Formatting form inputs with Cleave.js and React              | LogRocket | ssj  |
+|                                                              | LogRocket | ssj  |
+|                                                              | LogRocket | ssj  |
+|                                                              | LogRocket | ssj  |
+| Creating a CSS Spinning Loader Animation                     | LogRocket | ssj  |
+| Using JavaScript's sort Method for Sorting Arrays of Strings | LogRocket | ssj  |
+| Using JavaScript's sort Method for Sorting Arrays of Numbers | LogRocket | ssj  |
