@@ -22,6 +22,7 @@ I write; I teach.
 
 1. [A deep dive into React Context APIt](https://bit.ly/2Wlmyzg)
 2. [Formatting form inputs with Cleave.js and React ](https://bit.ly/2WjpY5q)
+3. [Creating a React app toolchain from scratch ](https://bit.ly/2ON7rKA)
 <!-- 3. [Creating a React App toolchain from scratch]()  -->
 
 <!-- ### Smashing Magazine -->
