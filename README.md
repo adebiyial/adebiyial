@@ -23,13 +23,12 @@ I write; I teach.
 1. [A deep dive into React Context APIt](https://bit.ly/2Wlmyzg)
 2. [Formatting form inputs with Cleave.js and React ](https://bit.ly/2WjpY5q)
 3. [Creating a React app toolchain from scratch ](https://bit.ly/2ON7rKA)
-<!-- 3. [Creating a React App toolchain from scratch]()  -->
 
-<!-- ### Smashing Magazine -->
+### Smashing Magazine
 
-<!-- [Me on CSS-Tricks](https://css-tricks.com/author/adebiyial/) -->
+[Me on Smashing Magazine](https://css-tricks.com/author/adebiyial/)
 
-<!-- 1. [Styling in React with Styled-Components]()  -->
+1. [How To Use Styled-Components In React](https://bit.ly/2P2hxrv)
 
 ### Alligator.io ([Me on Alligator.io](https://alligator.io/author/adebiyi-adedotun))
 
