@@ -24,9 +24,7 @@ I write; I teach.
 2. [Formatting form inputs with Cleave.js and React ](https://bit.ly/2WjpY5q)
 3. [Creating a React app toolchain from scratch ](https://bit.ly/2ON7rKA)
 
-### Smashing Magazine
-
-[Me on Smashing Magazine](https://css-tricks.com/author/adebiyial/)
+### Smashing Magazine ([Me on Smashing Magazine](https://css-tricks.com/author/adebiyial/))
 
 1. [How To Use Styled-Components In React](https://bit.ly/2P2hxrv)
 
