@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adebiyi Adedotun, a UI and Frontend Engineer based in Lagos, Nigeria. I'm currently employed at [Kobo360](https://kobo360.com), where I work on building the [Customer](https://customer.kobo360.com) and [Partner Dashboard](https://partner.kobo360.com) Dashboard from raw design specs to a functionally aggregated experience.
+I'm Adebiyi Adedotun, a UI and Frontend Engineer based in Lagos, Nigeria. I currently work as a Developer Advocate at [Layer0](https://layer0.co)
 
 ## Personal Website
 
