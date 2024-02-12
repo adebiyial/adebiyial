@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adebiyi Adedotun, a UI and Frontend Engineer based in Lagos, Nigeria.
+I'm Adebiyi Adedotun, a Design and Frontend Engineer based in Lagos, Nigeria.
 
 ## Personal Website
 
